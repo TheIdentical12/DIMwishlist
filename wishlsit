@@ -1,0 +1,7 @@
+echo "# DIMwishlist" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/TheIdentical12/DIMwishlist.git
+git push -u origin main
